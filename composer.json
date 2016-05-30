@@ -1,0 +1,18 @@
+{
+    "name": "sam-it/ls-expression-parser",
+    "description": "An expression parser for the language from the LS project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Mousa",
+            "email": "sam@mousa.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SamIT\\ExpressionManager\\" : ["src/"]
+        }
+    }
+}
